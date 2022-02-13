@@ -1,3 +1,5 @@
+/* CSS de toda la aplicación  */
+
 /* Login y Registro en NavBar */
 .linksNavbar {
   padding: 0;
@@ -30,12 +32,12 @@ form {
   justify-content: center;
 }
 
-/* Componente Botón Salir */
+/* Botón Salir */
 .botonSalir {
   margin-left: 15px;
 }
 
-/* Componente Botón Comprar */
+/* Botón Comprar */
 .botonComprar {
   margin: 0;
   position: absolute;
@@ -116,5 +118,16 @@ form {
   position:absolute;
   bottom: 0;
   width:100%;
-  height:230px;  
+  height:200px;  
 }
+
+.listUnlisted {
+  font-size: 12px;
+}
+
+.Link {
+  text-decoration: none !important;
+  color: black !important;
+}
+
+
