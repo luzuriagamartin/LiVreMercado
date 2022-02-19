@@ -17,6 +17,13 @@
   background-color: rgb(255, 140, 0);
 }
 
+/* Logo Fonts */
+.titulo {
+  font-family: 'Oswald', sans-serif;
+  
+ 
+}
+
 /* Form */
 form {
   position: fixed;
